@@ -1,0 +1,77 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color:rgb(252, 167, 10);
+}
+.Change{
+    display: flex;
+}
+.alamin{
+    width: 50%;
+    padding: 5%;   
+}
+.alamin img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+   background-image: linear-gradient(yellow, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.banner{
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.akash{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(74, 164, 238),rgb(166, 166, 245));
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.a1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.aimless{
+    border-left:darkcyan solid 5px;
+    background-color: rgb(240, 220, 220);
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 40px;
+    box-shadow: 10px 10px 50px gray;
+    margin: 25px;
+    width: 80%;
+}
+.aimless1{
+    border-left:rgb(190, 31, 230) solid 5px;
+    background-color: rgb(240, 220, 220);
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 40px;
+    box-shadow: 10px 10px 50px gray;
+    margin: 25px;
+    width: 80%;
+}
+.color{color:rgb(182, 141, 30)}
+.a2{
+    font-size: 40px;
+}
+.sobuj{
+    text-align: center;
+    font-weight: 500;
+}
+.a3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
